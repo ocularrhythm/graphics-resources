@@ -85,7 +85,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
 
 ## Post-Processing
 
-- [Post Processing in the Orange Box (2008)](http://www.valvesoftware.com/publications/2008/GDC2008_PostProcessingInTheOrangeBox.pdf)
+- [Post Processing in the Orange Box (2008)](https://steamcdn-a.akamaihd.net/apps/valve/2008/GDC2008_PostProcessingInTheOrangeBox.pdf)
 - [Aggregate G-Buffer Anti-Aliasing (2015)](http://graphics.cs.williams.edu/papers/AggregateI3D15/)
 - [Physically Based Real-Time Lens Flare Rendering (2011)](http://resources.mpi-inf.mpg.de/lensflareRendering/)
 - [John Chapman - Pseudo Lens Flare (2013)](http://john-chapman-graphics.blogspot.ca/2013/02/pseudo-lens-flare.html)
