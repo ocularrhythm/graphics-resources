@@ -62,8 +62,8 @@ This will download all PDFs and power-point slides into a folder called `resourc
 
 ## Light & Shadow
 
-- [Shading Effects in Left 4 Dead 2 (2010)](http://www.valvesoftware.com/publications/2010/GDC10_ShaderTechniquesL4D2.pdf)
-- [The Illustrative World of Team Fortress 2 (2008)](http://www.valvesoftware.com/publications/2008/GDC2008_StylizationWithAPurpose_TF2.pdf)
+- [Shading Effects in Left 4 Dead 2 (2010)](https://steamcdn-a.akamaihd.net/apps/valve/2010/GDC10_ShaderTechniquesL4D2.pdf)
+- [The Illustrative World of Team Fortress 2 (2008)](https://steamcdn-a.akamaihd.net/apps/valve/2008/GDC2008_StylizationWithAPurpose_TF2.pdf)
 - [Hardware-Accelerated Global Illumination by Image Space Photon Mapping (2009)](http://graphics.cs.williams.edu/papers/PhotonHPG09/)
 - [Ambient Occlusion Fields (2005)](https://mediatech.aalto.fi/~janne/aofields/)
 - [Phong Illumination Model (2012)](http://www.cs.utexas.edu/~bajaj/graphics2012/cs354/lectures/lect14.pdf)
